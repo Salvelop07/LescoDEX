@@ -1,5 +1,5 @@
 const Token = artifacts.require("./ESKO");
-const Exchange = artifacts.require("./LESKOdex");
+const Exchange = artifacts.require("./Lescodex");
 const ETHER_ADDRESS = "0x0000000000000000000000000000000000000000";
 const EVM_REVERT = "VM Exception while processing transaction: revert";
 const ether = (n) => {

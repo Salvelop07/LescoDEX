@@ -1,6 +1,6 @@
-# Lesko Decentralized Exchange
->Lesko Exchange with ESKO ERC-20 standard token
->Video explanation [_here_](https://drive.google.com/file/d/13waCMZJIXLVzaYtnbivB_x1prBfJPPPY/view?usp=sharing). 
+# LescoDEX
+
+>LescoDEX is a decentralized exchange (DEX) that allows users to trade ETH and ESKO tokens seamlessly, featuring wallet connectivity, order management, trading history, and an integrated price chart. 💱🚀📈
 
 ## 📁 Table of Contents
 * [General Info](#general-information)
@@ -14,7 +14,7 @@
 
 
 ## General Information
-- The LESKO is an exchange for trading ETH/ESKO
+- The Lesco is an exchange for trading ETH/ESKO
 - Connect with your wallet, deposit ETH or ESKO token and trade them
 - User can create orders, fill and cancel them, also chart of ETH/ESKO price action is available
 
@@ -85,7 +85,3 @@ Room for improvement:
 - Hardhat migration
 - Get liquidity, migrate to AMM version
 - Improve UI and UX
-
-## Contact
-Created by [@LESKOV](https://www.linkedin.com/in/ivan-leskov-4b5664189/) - feel free to contact me!
-

@@ -4,10 +4,10 @@ pragma solidity 0.8.17;
 import "@openzeppelin/contracts/token/ERC20/IERC20.sol";
 
 /**
- * @title A contract for LeskoDEX.
+ * @title A contract for LescoDEX.
  * NOTE: The contract of DEX with a decentralized orderbook and a custom ERC-20 token.
  */
-contract LESKOdex {
+contract Lescodex {
     struct Order {
         uint256 id;
         address user;

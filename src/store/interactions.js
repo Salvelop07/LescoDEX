@@ -22,7 +22,7 @@ import {
   orderMade,
 } from "./actions";
 import Token from "../abis/ESKO.json";
-import Exchange from "../abis/LESKOdex.json";
+import Exchange from "../abis/Lescodex.json";
 import { ETHER_ADDRESS } from "../helpers";
 
 export const loadWeb3 = async (dispatch) => {
@@ -330,4 +330,3 @@ export const makeSellOrder = (
       window.alert(`There was an error!`);
     });
 };
-
